@@ -2,6 +2,27 @@
 
 Extends the spaced-repetition flashcard app [Anki](https://apps.ankiweb.net/) with a number of additional text formatting options.
 
+### Features of PowerPack & whether they've been ported
+- [X] a code button that will wrap selected text in a `<code>`
+- [X] unordered list button 
+- [X] ordered list button
+- [X] an indent button
+- [X] an outdent button
+- [X] a strikethrough button
+- [X] a code block button
+- [X] a horizontal rule button
+- [] a definition button
+- [] a table button 
+- [] a keyboard key
+- [] a hyperlink button
+- [X] a text highlight button
+- [] a blockquote button 
+- [X] alignment buttons
+- [] a heading button
+- [] Actual markdown stuff
+
+
+
 ### Table of Contents
 
 <!-- MarkdownTOC -->
